@@ -51,23 +51,23 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 ### Tabulation for Open Circuit Test
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/1.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/2.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/3.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/4.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/5.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/6.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/7.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/8.png)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-2/blob/main/9.png)
 
 ### Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
